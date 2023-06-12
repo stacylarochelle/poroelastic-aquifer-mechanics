@@ -1,1 +1,1 @@
-# Firn aquifer mechanics repository
+# Aquifer mechanics repository
